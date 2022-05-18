@@ -1,3 +1,6 @@
+/*
+	this is a Verilog module for OR gate test.
+*/
 
 module JyhOr(
       input in1, in2, in3,
